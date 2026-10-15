@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Modeling and Control of Cart-Pole System using Modern Control Theories"
+type: software
+authors:
+  - given-names: "Reza"
+    family-names: "Nadimi"
+    affiliation: "University of Tehran"
+  - given-names: "Soheil"
+    family-names: "Lak-Ghashghaei"
+    affiliation: "University of Tehran"
+repository-code: "https://github.com/rezaxr14/cart-pole-modern-control"
+license: CC-BY-4.0
+year: 2026
